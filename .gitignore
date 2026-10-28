@@ -1,0 +1,11 @@
+
+# Environment variables
+.env
+**/.env
+
+# Java compiled files
+*.class
+
+# Build folders and dependencies
+**/target/
+**/node_modules/
