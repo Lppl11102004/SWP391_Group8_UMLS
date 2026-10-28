@@ -9,3 +9,7 @@
 # Build folders and dependencies
 **/target/
 **/node_modules/
+
+# Application configuration
+application.properties
+**/application.properties
